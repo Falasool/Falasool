@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Falasool, a front-end developer from China, currently focusing on the research and development of web3 technologies.
+I'm Falasool, a front-end developer from China.
 <!--
 **Falasool/Falasool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
